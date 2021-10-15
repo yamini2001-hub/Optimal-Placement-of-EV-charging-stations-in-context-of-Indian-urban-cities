@@ -39,12 +39,13 @@ objective functions.
 
 ## Test Network and Case study
 
-![1](https://user-images.githubusercontent.com/56781798/137445144-23e74c3f-a6c5-4b81-b842-d307535fdeb5.png | width=100 , height=100)
-![2](https://user-images.githubusercontent.com/56781798/137444858-2043282a-5582-4fd5-91d5-344747904334.png)
+For Test network: 33 bus distribution network is superposed on 25 bus transport network
+For Case Study : 69 bus distribution network is superposed on road network of Chandigarh city
 
 ## Further references 
 
 Report: [final_report.pdf](https://github.com/yamini2001-hub/Optimal-Placement-of-EV-charging-stations-in-context-of-Indian-urban-cities/files/7351791/final_report.pdf)
+
 Powerpoint presentation:
 
 
