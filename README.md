@@ -39,7 +39,7 @@ objective functions.
 
 ## Test Network and Case study
 
-![1](https://user-images.githubusercontent.com/56781798/137445144-23e74c3f-a6c5-4b81-b842-d307535fdeb5.png = 250x250)
+![1](https://user-images.githubusercontent.com/56781798/137445144-23e74c3f-a6c5-4b81-b842-d307535fdeb5.png | width=100 , height=100)
 ![2](https://user-images.githubusercontent.com/56781798/137444858-2043282a-5582-4fd5-91d5-344747904334.png)
 
 ## Further references 
