@@ -41,6 +41,7 @@ objective functions.
 
 For Test network: 33 bus distribution network is superposed on 25 bus transport network
 For Case Study : 69 bus distribution network is superposed on road network of Chandigarh city
+<img src="" data-canonical-src="" width="200" height="200" />
 
 ## Further references 
 
