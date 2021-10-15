@@ -46,8 +46,7 @@ For Case Study : 69 bus distribution network is superposed on road network of Ch
 
 Report: [final_report.pdf](https://github.com/yamini2001-hub/Optimal-Placement-of-EV-charging-stations-in-context-of-Indian-urban-cities/files/7351791/final_report.pdf)
 
-Powerpoint presentation:https://github.com/yamini2001-hub/Optimal-Placement-of-EV-charging-stations-in-context-of-Indian-urban-cities/issues/1#issue-1027234290
-
+Powerpoint presentation:[Optimal placement of charging stations.pptx](https://github.com/yamini2001-hub/Optimal-Placement-of-EV-charging-stations-in-context-of-Indian-urban-cities/files/7352275/Optimal.placement.of.charging.stations.pptx)
 
 
   
