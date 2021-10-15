@@ -36,6 +36,12 @@ candidate sites for placing the charging stations.
 
 The second stage of the proposed methodology involves finding the maximum number of charging stations at the optimal locations. This is formulated as a multiobjective optimization problem with cost, penalties and waiting time at the charging stations as
 objective functions.
+
+## Test Network and Case study
+
+![1](https://user-images.githubusercontent.com/56781798/137445144-23e74c3f-a6c5-4b81-b842-d307535fdeb5.png)
+![2](https://user-images.githubusercontent.com/56781798/137444858-2043282a-5582-4fd5-91d5-344747904334.png)
+
 ## Further references 
 
 Report:
