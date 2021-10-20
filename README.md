@@ -43,6 +43,11 @@ For Test network: 33 bus distribution network is superposed on 25 bus transport 
 
 For Case Study : 69 bus distribution network is superposed on road network of Chandigarh city
 
+## Case Study : Chandigarh city
+
+![WhatsApp Image 2021-10-15 at 12-13-41 AM](https://user-images.githubusercontent.com/56781798/138035366-c2cf1634-3960-4104-a034-7585adab8f80.gif)
+
+
 
 ## Further references 
 
